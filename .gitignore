@@ -22,6 +22,10 @@
 # TypeScript cache
 *.tsbuildinfo
 
+/HealthcareAPI/bin
+/HealthcareAPI/obj
+.vs
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
